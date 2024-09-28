@@ -1,11 +1,11 @@
 import React from 'react'
 
-const App = () => {
+const Modal = () => {
   return (
     <div>
-      Card
+      
     </div>
   )
 }
 
-export default App
+export default Modal

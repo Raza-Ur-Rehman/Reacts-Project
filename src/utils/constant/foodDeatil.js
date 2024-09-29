@@ -9,90 +9,50 @@ export const foodItems = [
     },
     {
         id: 2,
-        name: "Veggie Burger",
-        description: "A delicious burger with a veggie patty and fresh vegetables.",
-        price: 1499,  // PKR
-        discountPrice: 1299,  // PKR
-        imageUrl: "https://cdn.pixabay.com/photo/2014/04/22/02/56/burger-329523_1280.jpg"
+        name: "Mutton Madfoon",
+        description: "Succulent meat marinated and seasoned in aromatic herbs and spices",
+        price: 2450,  // PKR
+        discountPrice: 2205,  // PKR
+        imageUrl: "/assets/img/img1.png"
     },
     {
         id: 3,
-        name: "Chicken Nuggets",
-        description: "Crispy and tender chicken nuggets with a side of dipping sauce.",
-        price: 999,  // PKR
-        discountPrice: 899,  // PKR
-        imageUrl: "https://cdn.pixabay.com/photo/2020/02/11/07/10/nuggets-4839230_1280.jpg"
+        name: "Mix Meshwi Platter",
+        description: "Lebanese Chicken Meshwi (Double Skewer) | Spicy BBQ Beef (Double Skewer) | Chicken Kafta (Single Skewer) | Mutton Kafta (Single Skewer)",
+        price: 4500,  // PKR
+        discountPrice: 4050,  // PKR
+        imageUrl: "/assets/img/img2.png"
     },
     {
         id: 4,
-        name: "French Fries",
-        description: "Golden and crispy French fries, lightly salted.",
-        price: 799,  // PKR
-        discountPrice: 699,  // PKR
-        imageUrl: "https://cdn.pixabay.com/photo/2014/04/22/02/56/french-fries-329523_1280.jpg"
+        name: "Mutton Ribs Mandi",
+        description: "Specially marinated, glaze textured and slowly cooked Mutton ribs served with rice.",
+        price: 4200,  // PKR
+        discountPrice: 3780,  // PKR
+        imageUrl: "/assets/img/img4.png"
     },
     {
         id: 5,
-        name: "Caesar Salad",
-        description: "Fresh romaine lettuce with croutons, parmesan cheese, and Caesar dressing.",
-        price: 1249,  // PKR
-        discountPrice: 999,  // PKR
-        imageUrl: "https://cdn.pixabay.com/photo/2016/07/24/12/29/salad-1534645_1280.jpg"
+        name: "Hummus",
+        description: "Mashed chickpeas blended with tahini, olive oil, lemon juice, salt and garlic.",
+        price: 700,  // PKR
+        discountPrice: 630,  // PKR
+        imageUrl: "/assets/img/img5.png"
     },
     {
         id: 6,
-        name: "Milkshake",
-        description: "Creamy milkshake made with ice cream and milk.",
-        price: 899,  // PKR
-        discountPrice: 749,  // PKR
-        imageUrl: "https://cdn.pixabay.com/photo/2017/09/04/18/40/milkshake-2714583_1280.jpg"
+        name: "Walnut Signature Brownie",
+        description: "Our Walnut brownie is the stepping stone , the building blocks to a variety of desserts. Serving hot with vanilla ice cream",
+        price: 900,  // PKR
+        discountPrice: 810,  // PKR
+        imageUrl: "/assets/img/img6.png"
     },
     {
         id: 7,
-        name: "Grilled Chicken Sandwich",
-        description: "A healthy option with grilled chicken breast, lettuce, and tomato on a whole wheat bun.",
-        price: 1599,  // PKR
-        discountPrice: 1399,  // PKR
-        imageUrl: "https://cdn.pixabay.com/photo/2017/06/07/07/33/burger-2380898_1280.jpg"
+        name: "Tres Leches",
+        description: "Savor our Tres Leches: a luscious trio of milks saturating each bite, delivering an instant burst of creamy goodness to satisfy your sweet cravings!",
+        price: 950,  // PKR
+        discountPrice: 855,  // PKR
+        imageUrl: "/assets/img/img7.png"
     },
-    {
-        id: 8,
-        name: "Pepperoni Pizza Slice",
-        description: "A slice of pizza topped with pepperoni and mozzarella cheese.",
-        price: 699,  // PKR
-        discountPrice: 599,  // PKR
-        imageUrl: "https://cdn.pixabay.com/photo/2016/03/27/07/08/pizza-1280551_1280.jpg"
-    },
-    {
-        id: 9,
-        name: "Fish Fillet Sandwich",
-        description: "A crispy fish fillet sandwich with tartar sauce and lettuce.",
-        price: 1299,  // PKR
-        discountPrice: 1099,  // PKR
-        imageUrl: "https://cdn.pixabay.com/photo/2015/09/22/12/57/fish-955512_1280.jpg"
-    },
-    {
-        id: 10,
-        name: "Onion Rings",
-        description: "Crispy onion rings battered and fried to perfection.",
-        price: 599,  // PKR
-        discountPrice: 499,  // PKR
-        imageUrl: "https://cdn.pixabay.com/photo/2016/03/27/18/16/onion-rings-1281333_1280.jpg"
-    },
-    {
-        id: 11,
-        name: "Spicy Chicken Wings",
-        description: "Hot and spicy chicken wings served with a side of ranch.",
-        price: 1199,  // PKR
-        discountPrice: 999,  // PKR
-        imageUrl: "https://cdn.pixabay.com/photo/2021/04/13/18/53/chicken-wings-6175887_1280.jpg"
-    },
-    {
-        id: 12,
-        name: "Mango Smoothie",
-        description: "A refreshing mango smoothie made with fresh mangoes and yogurt.",
-        price: 799,  // PKR
-        discountPrice: 649,  // PKR
-        imageUrl: "https://cdn.pixabay.com/photo/2016/05/18/19/29/smoothie-1408147_1280.jpg"
-    }
-];
+]

@@ -1,10 +1,10 @@
-import Card from "./components/common/Cards/Card.jsx"
+import Home from "./page/Home"
 
 const App = () => {
   return (
-    <div>
-      <Card/>
-    </div>
+    <>
+    <Home/>
+    </>
   )
 }
 
